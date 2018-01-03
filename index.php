@@ -25,6 +25,7 @@
         <h3>Versions</h3>
         <ul>
           <li><a href="v0/index.php">V0</a></li>
+          <li><a href="v1/index.php">V1</a></li>
         </ul>
       </div>
     </main>

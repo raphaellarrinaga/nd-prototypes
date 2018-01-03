@@ -10,7 +10,7 @@
         </ul>
       </nav>
     </div>
-    <h1>Prototypes v0</h1>
+    <h1>Prototypes v1</h1>
   </div>
 </main>
 
